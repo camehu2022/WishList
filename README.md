@@ -1,2 +1,2 @@
 # WishList
- Lista de Favoridos para clientes
+ Lista de Favoritos para clientes
